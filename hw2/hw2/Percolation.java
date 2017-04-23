@@ -1,4 +1,4 @@
-package hw2;                       
+lspackage hw2;
 
 import edu.princeton.cs.algs4.WeightedQuickUnionUF;
 
